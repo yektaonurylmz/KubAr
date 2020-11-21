@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="siyah.Bottom" size="7.000000 7.000000"/>
+        <ImageTarget name="siyah.Back" size="7.000000 7.000000"/>
+        <ImageTarget name="siyah.Left" size="7.000000 7.000000"/>
+        <ImageTarget name="siyah.Right" size="7.000000 7.000000"/>
+        <ImageTarget name="siyah.Front" size="7.000000 7.000000"/>
+        <ImageTarget name="siyah.Top" size="7.000000 7.000000"/>
+        <MultiTarget name="siyah">
+            <Part name="siyah.Left" translation="-3.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="siyah.Right" translation="3.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="siyah.Front" translation="0 0 3.5" rotation="AD: 1 0 0 0"/>
+            <Part name="siyah.Back" translation="0 0 -3.5" rotation="AD: 0 1 0 180"/>
+            <Part name="siyah.Top" translation="0 3.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="siyah.Bottom" translation="0 -3.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

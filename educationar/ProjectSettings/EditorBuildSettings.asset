@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: e2eb855713196fa4785835383d737e34
+  - enabled: 1
+    path: Assets/Scenes/1mat_sayilar.unity
+    guid: 50944276a96f4c142ac4ebb80c72aebd
+  - enabled: 1
+    path: Assets/Scenes/Lessons.unity
+    guid: 38b3a0080c9641044a1a53c8e51c8737
+  - enabled: 1
+    path: Assets/Scenes/2SinifYuvarlama.unity
+    guid: 1a61c395719d19b428e76751415ea08c
+  - enabled: 1
+    path: Assets/Scenes/Lessons 1.unity
+    guid: 70acb38d357ea4d1fa5740096e6cfb79
+  - enabled: 1
+    path: Assets/Scenes/Lessons 2.unity
+    guid: 2a41545de06032a4e867b26b8b43d8df
+  - enabled: 1
+    path: Assets/Scenes/Lessons 3.unity
+    guid: 402912b576b050c44bf5817564e21309
+  - enabled: 1
+    path: Assets/Scenes/3duyuorganlari.unity
+    guid: 1b20e84463cd21842ab6da6ba35ecbf7
+  - enabled: 1
+    path: Assets/Scenes/3gezegen.unity
+    guid: 5b4ba41c15c8741c5ad58cd62b9da6e1
+  m_configObjects: {}
